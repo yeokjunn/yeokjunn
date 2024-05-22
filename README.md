@@ -11,9 +11,10 @@
 - ⚡ Fun fact: ...
 
   [LinkedIn Profile](www.linkedin.com/in/ke-jun-yeo-16a4a9208)
+  <div id="badges">
+  <a href="www.linkedin.com/in/ke-jun-yeo-16a4a9208">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
   
   <img src="https://komarev.com/ghpvc/?username=yeokjunn&style=flat-square&color=blue" alt=""/>
-<!---
-yeokjunn/yeokjunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
