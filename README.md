@@ -30,7 +30,6 @@
 
 👋 Hi, I’m Ke Jun, a Computer Science Undergraduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nanyang Technological University (NTU) in Singapore!
 - 🌱 I’m currently in Year 2 of my degree!
-- 💞️ I’m looking to collaborate on ...
 - 👀 Check out the cool projects/ repositories on my profile! 😄 
 - 📫 How to reach me: Connect with me on LinkedIn above!
 - ⚡ In my free time, you'll catch me doing sports or solving problems on CodeWars 👀 !
