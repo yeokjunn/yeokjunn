@@ -32,13 +32,14 @@
 - 🌱 I’m currently in Year 2 of my degree!
 - 👀 Check out the cool projects/ repositories on my profile! 😄 
 - 📫 How to reach me: Connect with me on LinkedIn above!
-- ⚡ In my free time, you'll catch me doing sports or solving problems on CodeWars 👀 !
+- ⚡ Passionate about Machine Learning & all things data 👀 !
 
 - - -
 <h1>
   Languages & Tools :hammer_and_wrench:
 </h1>
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
