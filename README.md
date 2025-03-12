@@ -1,6 +1,4 @@
-  <h1 align="center">Hi, I'm Ke Jun. Welcome to my profile! <img>
-
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmcDEwNzY1bWJ5dzdhbXk1djlna2lrbTdyNTFvOTk5eGZ2YjI5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ttFzFD9WgfGcVjbk42/giphy.gif" width="30px"/></h1>
+  <h1 align="center">Hi, I'm Ke Jun. Welcome to my profile! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmcDEwNzY1bWJ5dzdhbXk1djlna2lrbTdyNTFvOTk5eGZ2YjI5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ttFzFD9WgfGcVjbk42/giphy.gif" width="30px"/></h1>
   <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJoMjczZjVranVqNnhob2w5MmJjejc1aWJrc20wY3BqbGs2Y3AzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300"/>
   </div>
@@ -50,4 +48,3 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmcDEwNzY1bWJ5dzdhbXk1dj
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="JUPYTER" alt="JUPYTER" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="KAGGLE" alt="KAGGLE" width="40" height="40"/>&nbsp;
 </div>
-
