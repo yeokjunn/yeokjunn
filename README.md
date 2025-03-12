@@ -1,4 +1,4 @@
-  <h1 align="center">Hi, I'm Ke Jun. Welcome to my profile! <img 
+  <h1 align="center">Hi, I'm Ke Jun. Welcome to my profile! <img>
 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmcDEwNzY1bWJ5dzdhbXk1djlna2lrbTdyNTFvOTk5eGZ2YjI5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ttFzFD9WgfGcVjbk42/giphy.gif" width="30px"/></h1>
   <div align="center">
