@@ -48,3 +48,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="JUPYTER" alt="JUPYTER" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="KAGGLE" alt="KAGGLE" width="40" height="40"/>&nbsp;
 </div>
+
+<h1>
+  🧠 What I'm learning now!
+</h1>
+
+<div>
+  <ul>
+    <li>Mechanics of Neural Networks — from convolutional architectures to optimisation</li>
+    <li>Self-Attention/ Attention mechanisms in Transformers</li>
+    <li>Semantic Analysis in Natural Language Processing</li>
+    <li>Model evaluation techniques — precision, recall, AUC, etc.</li>
+    <li>Dissecting LLM output layers for decision-making</li>
+  </ul>
+</div>
